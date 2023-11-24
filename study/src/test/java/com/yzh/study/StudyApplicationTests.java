@@ -11,7 +11,7 @@ class StudyApplicationTests {
 		System.out.println("this is a test!");
 		System.out.println("----------------");
 		System.out.println("----------------");
-		System.out.println("-------modified by idea---------");
+		System.out.println("------github 修改文件内容----");
 		System.out.println("----------------");
 		System.out.println("----------------");
 	}
